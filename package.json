@@ -1,6 +1,10 @@
 {
   "name": "semantic-ui-step",
+<<<<<<< HEAD
   "version": "1.0.0-beta",
+=======
+  "version": "1.0.0",
+>>>>>>> b908cec0145269c6a179e35160b525f31dfbf1db
   "title": "Semantic UI - Step",
   "description": "Single component release of step",
   "homepage": "http://www.semantic-ui.com",
@@ -13,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
+<<<<<<< HEAD
+=======
+  "dependencies": {
+    "jquery": "x.x.x"
+  },
+>>>>>>> b908cec0145269c6a179e35160b525f31dfbf1db
   "devDependencies": {}
 }
