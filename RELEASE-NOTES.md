@@ -2,6 +2,10 @@
 
 - **Steps** - Steps can now have icons, descriptions and titles. Step default theme has been modified significantly to be more flexible.
 
+### Version 0.15.2 - Mar 28, 2014
+
+- **Step** - Fixes issue with border radius on vertical steps
+
 ### Version 0.15.0 - Mar 14, 2014
 
 - **Step** - Vertical Steps now have option to have two line items
