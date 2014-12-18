@@ -1,3 +1,16 @@
+### Version 1.3.0 - December 17, 2014
+
+- **Steps** - Steps are now responsive for mobile by default, and have optional responsive styles for tablet
+- **Step** - Fix issue with completed ordered step icon alignment
+
+### Version 1.1.1 - December 03, 2014
+
+- **Step** - Fixes step content appearing overlapped due to use of ``em`` instead of ``rem`` for line-height.
+
+### Version 1.1.0 - December 02, 2014
+
+- **Steps** - Now use global border color
+
 ### Version 1.0.0 - November 24, 2014
 
 - **Steps** - Steps can now have icons, descriptions and titles. Step default theme has been modified significantly to be more flexible.
