@@ -1,3 +1,7 @@
+### Version 1.7.0 - January 14, 2015
+
+- **Steps** - Steps now use ``table-cell`` to allow steps to be equal height by default, even with different content height.
+
 ### Version 1.3.0 - December 17, 2014
 
 - **Steps** - Steps are now responsive for mobile by default, and have optional responsive styles for tablet
