@@ -1,6 +1,10 @@
 {
   "name": "semantic-ui-step",
+<<<<<<< HEAD
   "version": "1.0.0-beta",
+=======
+  "version": "1.7.2",
+>>>>>>> 1c5538b33c35c3852d8813e4057cebfee341787a
   "title": "Semantic UI - Step",
   "description": "Single component release of step",
   "homepage": "http://www.semantic-ui.com",
@@ -8,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Semantic-Org/UI-Step.git"
+    "url": "https://github.com/Semantic-Org/UI-Step.git"
   },
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
