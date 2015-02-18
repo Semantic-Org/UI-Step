@@ -5,7 +5,7 @@ var
 Package.describe({
   name    : 'semantic:ui-step',
   summary : 'Semantic UI - Step (official): Single component release of step',
-  version : '1.9.9',
+  version : '1.9.0',
   git     : 'git://github.com/Semantic-Org/UI-Step.git',
 });
 
