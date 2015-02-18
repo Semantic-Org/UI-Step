@@ -1,16 +1,7 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> f8ca45610aca8947e7bbe8cd2a6bb34468973fcb
 ### UI Changes
 
 - **Steps** - Fixed bug where evenly divided steps were no longer fluid
 
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 1c5538b33c35c3852d8813e4057cebfee341787a
->>>>>>> f8ca45610aca8947e7bbe8cd2a6bb34468973fcb
 ### Version 1.7.0 - January 14, 2015
 
 - **Steps** - Steps now use ``table-cell`` to allow steps to be equal height by default, even with different content height.
