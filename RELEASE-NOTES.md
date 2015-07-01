@@ -1,3 +1,11 @@
+### Version 2.0.0 - June 30, 2015
+
+- **Steps** - Steps now use `flexbox`, fluid steps now center content inside each step
+- **Steps** - Steps no longer need `item count` and will automatically divide evenly
+- **Steps** - Added `attached` steps, which can now be attached to other UI like `segment`
+- **Steps** - Fixes bug where `ordered steps` had smaller numbers in `IE10`
+- **Steps** - Fixed bug where `stackable steps` were not working correctly
+
 ### UI Changes
 
 - **Steps** - Fixed bug where evenly divided steps were no longer fluid
