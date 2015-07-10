@@ -1,3 +1,8 @@
+### Version 2.0.3 - July 8, 2015
+
+- **Steps** - Fixed `github` theme for steps not displaying correctly in 2.0 [#2545](https://github.com/Semantic-Org/Semantic-UI/issues/2545)
+- **Steps** - Last `step` no longer incorrectly shows arrow [#2552](https://github.com/Semantic-Org/Semantic-UI/issues/2552)
+
 ### Version 2.0.0 - June 30, 2015
 
 - **Steps** - Steps now use `flexbox`, fluid steps now center content inside each step
