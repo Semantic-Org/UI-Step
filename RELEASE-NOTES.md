@@ -1,3 +1,7 @@
+### Version 2.0.4 - July 17, 2015
+
+- **Steps** - Updated `basic` steps theme to appear correctly
+
 ### Version 2.0.3 - July 8, 2015
 
 - **Steps** - Fixed `github` theme for steps not displaying correctly in 2.0 [#2545](https://github.com/Semantic-Org/Semantic-UI/issues/2545)
