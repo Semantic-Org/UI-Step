@@ -1,3 +1,7 @@
+#### Bugs
+
+- **Step** - Fixed issue with display of step groups with only one step having incorrect border radius **Thanks @elliotisonfire** [#2869](https://github.com/Semantic-Org/Semantic-UI/issues/2869)
+
 ### Version 2.0.4 - July 17, 2015
 
 - **Steps** - Updated `basic` steps theme to appear correctly
