@@ -2,7 +2,7 @@
 Package.describe({
   name    : 'semantic:ui-step',
   summary : 'Semantic UI - Step: Single component release',
-  version : '2.2.3',
+  version : '2.2.6',
   git     : 'git://github.com/Semantic-Org/UI-Step.git',
 });
 
