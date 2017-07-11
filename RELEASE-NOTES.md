@@ -1,3 +1,7 @@
+### Version 2.2.11 - July 11, 2017
+
+- **Steps** - Steps now include an `unstackable` variation **Thanks @TemaSM** [#3714](https://github.com/Semantic-Org/Semantic-UI/issues/3714)
+
 ### Version 2.2.0 - June 26, 2016
 
 - **Step** - Fix incorrect bottom margin on `top attached steps`
